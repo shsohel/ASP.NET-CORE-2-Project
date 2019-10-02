@@ -1,0 +1,81 @@
+﻿@model PaginatedList<JobAppMS.Models.JobList>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+
+}
+
+
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Avaialbe Jobs </h4>
+        <form asp-action="Index" method="get">
+            <div class="form-actions no-color">
+                <p>
+                    Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                    <input type="submit" value="Search" class="btn btn-default" />
+                </p>
+  
+                <p></p>
+            </div>
+        </form>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-routecurrentFilter="@ViewData[" CurrentFilter"]">Job Title</a>
+                    </th>                  
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Position)
+                        </td>                       
+                        <td>
+                            @*<a asp-action="Edit" asp-route-id="@item.JobListID">Edit</a> |*@
+
+
+                            <a asp-action="Details" asp-route-id="@item.JobListID"  class="btn btn-secondary" >Details</a> | 
+
+
+                            <a asp-action="Delete" asp-route-id="@item.JobListID" class="btn btn-danger">Delete</a>
+
+                            <a asp-area="" asp-controller="ApplyJob" asp-action="Jobapply" class="btn btn-primary"> Apply Job </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+        @{
+            var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+            var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+        }
+        <a asp-action="Index" 
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-info  col-md-1 float-right @prevDisabled">
+            Previous
+        </a>
+        |
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-primary col-1  float-left @nextDisabled">
+            Next
+        </a>
+
+        <br>
+        </div>
+</div>

@@ -1,0 +1,84 @@
+﻿@model IEnumerable<JobAppMS.Models.Training>
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Gettraininfo";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Training Info </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.UserName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.TrainingTitle)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.TopicsCovered)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.TrainingYear)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Institute)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Duration)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Location)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TrainingTitle)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TopicsCovered)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TrainingYear)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Institute)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Duration)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Location)
+                            </td>
+                            <td>
+                             
+                                <a asp-action="Detailtrain" asp-route-id="@item.TrainingID" class="btn btn-info">Details</a> 
+                                <br />
+                                <a asp-action="Deletetrain" asp-route-id="@item.TrainingID" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div>
+                <div class="mfp-arrow-right">
+                    <a asp-action="Getperson" asp-controller="ApplyJob" asp-route-id="" class="btn btn-outline-success"> Print Trainee Info</a>
+                </div>
+                <br />
+            </div>
+        }
+    </div>
+</div>

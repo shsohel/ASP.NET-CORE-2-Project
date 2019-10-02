@@ -1,0 +1,343 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *Must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+    <title>Online Job Application System &amp;  | Home</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="~/HomeLayout/img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+
+    <link href="~/HomeLayout/style.css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="spinner"></div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+
+        <!-- Top Header Area -->
+        <div class="top-header-area d-flex justify-content-between align-items-center">
+            <!-- Contact Info -->
+            <div class="contact-info">
+                <a href="#"><span>Phone:</span> +8801811275653</a>
+                <a href="#"><span>Email:</span> contact@gmail.com</a>
+            </div>
+            <!-- Follow Us -->
+            <div class="follow-us">
+                <span>Follow us</span>
+                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            </div>
+        </div>
+
+        <!-- Navbar Area -->
+        <div class="clever-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <!-- Menu -->
+                <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-4">
+                    <div class="container">
+                        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"> Job Application MS</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon btn btn-primary"></span>
+                        </button>
+                        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                            <ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="ApplyJob" asp-action="Getperson"> Candidates</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="ApplyJob" asp-action="GetApplyList"> Application User </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark " asp-area="" asp-controller="JobList" asp-action="Create"> Post Job </a>
+                                    </li>
+
+
+
+                                }
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="ApplyJob" asp-action="Crepersoon"> Submit Resume </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark btn btn-outline-success" asp-area="" asp-controller="JobList" asp-action="Index"> Find a Dream Job </a>
+                                </li>
+                                |
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark btn btn-outline-warning" asp-area="" asp-controller="Home" asp-action="ProjectOverView"> Project Over View </a>
+                                </li>
+                            </ul>
+                            @await Html.PartialAsync("_LoginPartial")
+                        </div>
+                        
+                    </div>
+                    
+                </nav>
+                <div class="text-center">
+                    <h6 class="bg-warning" style="align-content:center">Nothing Input without Login!!!  </h6>
+
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+
+    <!-- ##### Header Area End ##### -->
+    <!-- ##### Hero Area Start ##### -->
+
+    <section class="hero-area bg-img bg-overlay-2by5" style="background-image: url('../../HomeLayout/img/bg-img/bg1.jpg'); height: auto;">
+        <div class="container h-1500">
+            <div class="row h-1500 align-items-center">
+                <div class="col-12">
+                    <!-- Hero Content -->
+                    <div class="hero-content  center-block" ">
+
+
+                        <br />
+                        <br />
+                        <br />
+                        <main role="main" class="pb-3">
+                            @RenderBody()
+                        </main>
+
+                        <br />
+                        <br />
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Hero Area End ##### -->
+    <!-- ##### Cool Facts Area Start ##### -->
+    <section class="cool-facts-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <!-- Single Cool Facts Area -->
+
+
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-cool-facts-area text-center mb-100 wow fadeInUp" data-wow-delay="250ms">
+                        <div class="icon">
+                            <img src="~/HomeLayout/img/core-img/star.png" alt="">
+                        </div>
+                        <h2><span class="counter">1912</span></h2>
+                        <h5>Total Jobs</h5>
+                    </div>
+                </div>
+
+                <!-- Single Cool Facts Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-cool-facts-area text-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+                        <div class="icon">
+                            <img src="~/HomeLayout/img/core-img/star.png" alt="">
+                        </div>
+                        <h2><span class="counter">123</span></h2>
+                        <h5> Total Company </h5>
+                    </div>
+                </div>
+
+                <!-- Single Cool Facts Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-cool-facts-area text-center mb-100 wow fadeInUp" data-wow-delay="750ms">
+                        <div class="icon">
+                            <img src="~/HomeLayout/img/core-img/events.png" alt="">
+                        </div>
+                        <h2><span class="counter">5540</span></h2>
+                        <h5>Recent Register Uer </h5>
+                    </div>
+                </div>
+
+                <!-- Single Cool Facts Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-cool-facts-area text-center mb-100 wow fadeInUp" data-wow-delay="1000ms">
+                        <div class="icon">
+                            <img src="~/HomeLayout/img/core-img/earth.png" alt="">
+                        </div>
+                        <h2><span class="counter">56</span></h2>
+                        <h5> Online User Now</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Cool Facts Area End ##### -->
+    <!-- ##### Best Tutors End ##### -->
+    <!-- ##### Register Now Start ##### -->
+    <section class="register-now section-padding-100-0 d-flex justify-content-between align-items-center" style="background-image: url(img/core-img/texture.png);">
+        <!-- Register Contact Form -->
+        <div class="register-contact-form mb-100 wow fadeInUp" data-wow-delay="250ms">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="forms">
+                            <h4> Contact with us </h4>
+                            <form action="~/" method="post">
+                                <div class="row">
+                                    <div class="col-12 col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="text" placeholder="Name">
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-6">
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" id="email" placeholder="Email">
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="phone" placeholder="Phone">
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="content" placeholder="District">
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <button class="btn clever-btn w-100">Send Message</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Register Now Countdown -->
+        <div class="register-now-countdown mb-100 wow fadeInUp" data-wow-delay="500ms">
+            <h3>New Job Offer are Pending</h3>
+            <p> Offer Will be end soon!</p>
+            <!-- Register Countdown -->
+            <div class="register-countdown">
+                <div class="events-cd d-flex flex-wrap" data-countdown="2019/09/01"></div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Register Now End ##### -->
+    <!-- ##### Upcoming Events End ##### -->
+    <!-- ##### Blog Area Start ##### -->
+    <section class="blog-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading">
+                        <h3>About Our Site </h3>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Single Blog Area -->
+            <p class="align-items-center">
+                My Job Porta is one of the most established job portals in Bangladesh, Attracting quality jobseekers since December, 2005. Since then we have expanded to encompass a broad range of industries and job types. We believe that our understanding of working with a multitude of cultures has enabled us to offer competitive edge when working with a diverse range of businesses.
+
+                Times have changed and as the online recruitment market matures in Bangladesh, for both the candidate and the recruiting companies expectations are much higher.
+
+                Candidates expect and quite rightly so, complete privacy and control over where there personal data goes.
+
+                Companies expect that when recruiting they can do this in line with the strategic goals of the enterprise, and that the process should be simple, quick and cost effective with measurable goals.
+
+                Job.com.bd has developed a unique system that not only meets but surpasses both the candidates and recruiting company’s expectations.
+
+                With our strict data protection policy, the candidate has complete control of which company advertising a job opportunity their personal data is sent to. A major benefit to organisations using this is that when they do receive the CV it is an up to date version.
+
+                As a company recruiting you have the choice of using our web based back office tools within Recruit Direct/Express or simply driving quality traffic to your site. Either way you will have complete control over your recruitment needs, your cost per hire and increase the awareness of your brand to potential jobseekers at the same time.
+
+                Job.com.bd tailors its service offerings to your recruitment needs, regardless if your business is small or large please contact us to assist with your recruitment requirements.
+            </p>
+
+        </div>
+    </section>
+    <!-- ##### Blog Area End ##### -->
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <!-- Top Footer Area -->
+        <div class="top-footer-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- Footer Logo -->
+                        <div class="footer-logo">
+                            <a href="index.html"><img src="img/core-img/logo2.png" alt=""></a>
+                        </div>
+                        <!-- Copywrite -->
+                        <p>
+                            <a href="#">
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                Copyright &copy;
+                                <script>document.write(new Date().getFullYear());</script> All rights reserved | The Best Code Solution <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.doitsolve.com" target="_blank">DoITSolve</a>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bottom Footer Area -->
+        <div class="bottom-footer-area d-flex justify-content-between align-items-center">
+            <!-- Contact Info -->
+            <div class="contact-info">
+                <a href="#"><span>Phone:</span> +8801811275653</a>
+                <a href="#"><span>Email:</span> doitsolve@gmail.com</a>
+            </div>
+            <!-- Follow Us -->
+            <div class="follow-us">
+                <span>Follow us</span>
+                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="~/HomeLayout/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="~/HomeLayout/js/bootstrap/popper.min.js"></script>
+
+
+    <!-- Bootstrap js -->
+    <script src="~/HomeLayout/js/bootstrap/bootstrap.min.js"></script>
+
+
+
+    <!-- All Plugins js -->
+    <script src="~/HomeLayout/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="~/HomeLayout/js/active.js"></script>
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

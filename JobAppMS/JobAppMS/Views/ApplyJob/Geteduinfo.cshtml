@@ -1,0 +1,97 @@
+﻿@model IEnumerable<JobAppMS.Models.Education>
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Geteduinfo";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Education Info </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.UserName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ExamDegreeTitle)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.GroupMajorSubject)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.InstituteUniversity)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Result)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CGPA)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Scale)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.YearOfPassing)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Duration)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ExamDegreeTitle)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.GroupMajorSubject)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.InstituteUniversity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Result)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CGPA)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Scale)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.YearOfPassing)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Duration)
+                            </td>
+                            <td>
+                                
+                                <a asp-action="Detailedu" class="btn btn-info" asp-route-id="@item.EduID">Details</a> 
+                                <br />
+                                <a asp-action="Deleteedu" class="btn btn-danger" asp-route-id="@item.EduID">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div>
+                <div class="mfp-arrow-right">
+                    <a asp-action="Getexinfo" asp-controller="ApplyJob" asp-route-id="" class="btn btn-info"> Experrience Info</a>
+                </div>
+                <br />
+            </div>
+        }
+        </div>
+</div>

@@ -1,0 +1,66 @@
+﻿@model JobAppMS.Models.Training
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Detailtrain";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Training Details </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.TrainingTitle)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.TrainingTitle)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.TopicsCovered)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.TopicsCovered)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.TrainingYear)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.TrainingYear)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Institute)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Institute)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Duration)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Duration)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Location)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Location)
+                </dd>
+            </dl>
+        }
+        </div>
+        <div>          
+            <a asp-action="Gettraininfo" class="btn btn-info">Back to List</a>
+        </div>
+    </div>

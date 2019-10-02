@@ -1,0 +1,73 @@
+﻿@model JobAppMS.Models.Experience
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Detailex";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Education Details </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.CompanyName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.CompanyName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.CompanyBusiness)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.CompanyBusiness)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Designation)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Designation)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Department)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Department)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.startDate)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.startDate)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.EndDate)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.EndDate)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Skill)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Skill)
+                </dd>
+            </dl>
+        }
+        </div>
+        <div>
+
+            <a asp-action="Getexinfo" class="btn btn-info">Back to List</a>
+            <br />
+        </div>
+    </div>

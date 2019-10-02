@@ -1,0 +1,66 @@
+﻿@model JobAppMS.ViewModels.JoblistVM
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+
+}
+
+<hr />
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-6 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  ">Create Job </h4>
+
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Position" class="control-label"></label>
+                    <input asp-for="Position" class="form-control" />
+                    <span asp-validation-for="Position" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NumberofPost" class="control-label"></label>
+                    <input asp-for="NumberofPost" class="form-control" />
+                    <span asp-validation-for="NumberofPost" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SalaryScale" class="control-label"></label>
+                    <input asp-for="SalaryScale" class="form-control" />
+                    <span asp-validation-for="SalaryScale" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="AgeLimit" class="control-label"></label>
+                    <input asp-for="AgeLimit" class="form-control" />
+                    <span asp-validation-for="AgeLimit" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EducationRequirement" class="control-label"></label>
+                    <input asp-for="EducationRequirement" class="form-control" />
+                    <span asp-validation-for="EducationRequirement" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastDateofApplication" class="control-label"></label>
+                    <input asp-for="LastDateofApplication" class="form-control" />
+                    <span asp-validation-for="LastDateofApplication" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        }
+    </div>
+
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,370 @@
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+D:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Create.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Delete.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Details.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Edit.g.cshtml.cs
+D:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Index.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Create.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Delete.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Details.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Edit.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Index.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+G:\Sakhawat Hossain\ASP.NET CORE Project\Version2\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+G:\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Create.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Delete.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Details.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Edit.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\PersonalDetail\Index.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Index.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Create.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Edit.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Delete.g.cshtml.cs
+G:\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Details.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Create.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Delete.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Details.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Edit.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Index.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getperson.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Educreate.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Educreate.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Excreate.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getperson.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Create.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Delete.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Details.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Edit.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Training\Create.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Training\Delete.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Training\Details.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Training\Edit.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Training\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Traineecreate.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Jobapply.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\GetApplyList.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobApplication\Index.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobApplication\Addmyjob.g.cshtml.cs
+C:\Users\idb_c#.NH\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Crepersoon.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Crepersoon.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Educreate.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Excreate.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getperson.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Traineecreate.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Create.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Delete.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Details.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Edit.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Index.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Jobapply.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\GetApplyList.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Mylayout.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\idb_c#\Downloads\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csprojAssemblyReference.cache
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Crepersoon.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Excreate.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\GetApplyList.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Jobapply.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Traineecreate.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Mylayout.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailperson.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteperson.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Geteduinfo.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailedu.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteedu.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getexinfo.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailex.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteex.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Gettraininfo.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailtrain.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deletetrain.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\ProjectOverView.g.cshtml.cs
+C:\Users\SH SOHEL\Desktop\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.deps.json
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.json
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.runtimeconfig.dev.json
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.dll
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\bin\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorAssemblyInfo.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfoInputs.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.AssemblyInfo.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.input.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.TagHelpers.output.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorCoreGenerate.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Manage.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Crepersoon.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteedu.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteex.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deleteperson.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Deletetrain.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailedu.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailex.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailperson.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Detailtrain.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Educreate.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Excreate.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\GetApplyList.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Geteduinfo.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getexinfo.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Getperson.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Gettraininfo.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Jobapply.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\ApplyJob\Traineecreate.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Main.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\ProjectOverView.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Create.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Delete.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Details.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Edit.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\JobList\Index.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Mylayout.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cache
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.RazorTargetAssemblyInfo.cs
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.Views.pdb
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.dll
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.pdb
+C:\Users\IDB_C#\Downloads\MT09ExamProjec_Sakhawat_1246665\1246665\JobAppMS\JobAppMS\obj\Debug\netcoreapp2.2\JobAppMS.csproj.CopyComplete

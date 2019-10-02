@@ -1,0 +1,78 @@
+﻿@model JobAppMS.Models.Education
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Detailedu";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Education Details </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ExamDegreeTitle)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ExamDegreeTitle)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GroupMajorSubject)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.GroupMajorSubject)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.InstituteUniversity)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.InstituteUniversity)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Result)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Result)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.CGPA)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.CGPA)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Scale)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Scale)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.YearOfPassing)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.YearOfPassing)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Duration)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Duration)
+                </dd>
+            </dl>
+        }
+    </div>
+    <div>
+      
+        <a asp-action="Geteduinfo" class="btn btn-info">Back to List</a>
+    </div>
+</div>

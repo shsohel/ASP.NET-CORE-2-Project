@@ -1,0 +1,86 @@
+﻿@model JobAppMS.Models.PersonalDetail
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Deleteperson";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+    <div class="col-md-12 align-self-center border border-success modal modal-content">
+        <h4 class="align-content-center border font-weight-bold btn btn-success  "> Personal Details </h4>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserPicture)
+                </dt>
+                <dd class="col-sm-10">
+                    <img class="img-thumbnail " style="width:180px; height:210px;" src="@Model.UserPicture"
+                         asp-append-version="true" alt="@Model.UserPicture" />
+                </dd>
+
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.FullName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.FullName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.FathersName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.FathersName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.MothersName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.MothersName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.DateOfBirth)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.DateOfBirth)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Religion)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Religion)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Nationality)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Nationality)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.MaritalStatus)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.MaritalStatus)
+                </dd>
+
+            </dl>
+
+            <form asp-action="Deleteperson">
+                <input type="hidden" asp-for="PersonalID" />
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a asp-action="Getperson" class="btn btn-info">Back to List</a>
+            </form>
+        }
+    </div>
+    <br />
+</div>

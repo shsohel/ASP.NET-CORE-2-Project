@@ -1,0 +1,101 @@
+﻿@model JobAppMS.ViewModels.ApplyVM
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+@{
+    ViewData["Title"] = "Crepersoon";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+
+}
+
+
+<hr />
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+    <br />
+
+    <div class="col-md-6 align-self-center border border-success modal modal-content">
+        
+        <h4 class="align-content-center border font-weight-bold btn btn-success  ">Personal Details Info</h4>
+
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <form asp-action="Crepersoon" asp-controller="ApplyJob" method="post" enctype="multipart/form-data" class="table table-responsive align-content-center container container-fluid">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="UserName" class="control-label"></label>
+                    <input asp-for="UserName" value="@UserManager.GetUserName(User)" readonly="readonly" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FullName" class="control-label"></label>
+                    <input asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FathersName" class="control-label"></label>
+                    <input asp-for="FathersName" class="form-control" />
+                    <span asp-validation-for="FathersName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MothersName" class="control-label"></label>
+                    <input asp-for="MothersName" class="form-control" />
+                    <span asp-validation-for="MothersName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DateOfBirth" class="control-label"></label>
+                    <input asp-for="DateOfBirth" class="form-control" />
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Religion" class="control-label"></label>
+                    <select asp-for="Religion" class="form-control">
+                        <option value="Islam"> Islam </option>
+                        <option value="Hindu">Hindu</option>
+                        <option value="--">Other</option>
+                    </select>
+                    <span asp-validation-for="Religion" class="text-danger"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="Nationality" class="control-label"></label>
+                    <select asp-for="Nationality" class="form-control">
+                        <option value="Bangladeshi"> Bangladeshi </option>
+
+                    </select>
+                    <span asp-validation-for="Nationality" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MaritalStatus" class="control-label"></label>
+                    <select asp-for="MaritalStatus" class="form-control">
+                        <option value="Single"> Single </option>
+                        <option value="Married">Married</option>
+                        <option value="--">Other</option>
+                    </select>
+                    <span asp-validation-for="MaritalStatus" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <label asp-for="UserPicture" class="control-label"></label>
+                        <input asp-for="UserPicture" type="file" name="file" class="form-control" />
+                        <span asp-validation-for="UserPicture" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="NEXT" class="btn btn-primary" />
+                </div>
+            </form>
+        }
+    </div>
+</div>
+
+<div>
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+}

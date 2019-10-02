@@ -1,0 +1,101 @@
+﻿@model IEnumerable<JobAppMS.Models.PersonalDetail>
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Getperson";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+
+}
+
+
+
+<div class="row justify-content-sm-center modal modal-content modal-dialog-centered">
+
+<div class="col-md-12 align-self-center border border-success modal modal-content">
+    <h4 class="align-content-center border font-weight-bold btn btn-success  "> Candidates Info </h4>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.UserName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FullName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FathersName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MothersName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateOfBirth)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Religion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nationality)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MaritalStatus)
+                    </th>
+                    <th>
+                        <label> Photo </label>
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UserName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FathersName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MothersName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfBirth)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Religion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nationality)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaritalStatus)
+                        </td>
+                        <td>
+                            <img class="img-thumbnail " style="width:50px; height:50px;" src="@item.UserPicture"
+                                 asp-append-version="true" alt="@item.UserPicture" />
+                            @*@Html.DisplayFor(modelItem => item.UserPicture)*@
+                        </td>
+                        <td>                            
+                            <a asp-action="Detailperson" asp-route-id="@item.PersonalID" class="btn btn-info">Details</a> 
+                            <br />
+                            <a asp-action="Deleteperson" asp-route-id="@item.PersonalID" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="mfp-arrow-right">
+            <a asp-action="Geteduinfo" asp-controller="ApplyJob" asp-route-id="" class="btn btn-info"> Education Info</a>
+        </div>
+ <br />
+    }
+    </div>
+
+    </div>

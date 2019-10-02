@@ -1,0 +1,36 @@
+
+Project Name : Online Job Application Portal 
+----------------------------------------------
+
+Description:
+1. Everyone can view the Job List without login
+2. Only Admin can add new to the database
+3. Admin can Edit and Delete news
+4. Viewer can view according to category or menu
+5. Some menu restrict by Role
+
+
+Admin:
+userid : shs@gmail.com
+password: Shs@1234
+
+
+1. Asp.NET CORE Project with Code First Approch 
+2. Authentication and Authorization 
+3. Data Annotation 
+4. Ajax
+5. Partial View
+6. Custom Layout 
+7. Asp.NET Helper Method 
+8. Razor View 
+9. Routing
+10. View Models
+11. Paging, Sorting and Filtering 
+12.Asynchronous operation 
+13. One to Many Entities Relationship
+14. Angular Js
+
+
+
+
+
